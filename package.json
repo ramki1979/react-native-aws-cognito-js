@@ -21,6 +21,6 @@
   "author": "Jon Parsons <jonparsons@gmail.com> (https://github.com/jmparsons)",
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
-    "aws-sdk": "*"
+    "aws-sdk": "2.177.0"
   }
 }
